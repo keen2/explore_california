@@ -1,0 +1,10 @@
+# Comment
+tempfile.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+# char '!' means do not ignore == track this
+!assets/videos/tour_*.mp4
